@@ -1,6 +1,4 @@
-Thanks for downloading this theme!
+This is a transport booking application.
+It was someone's final year project topic.
 
-Theme Name: Regna
-Theme URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+There are so many modules inside. check within...
